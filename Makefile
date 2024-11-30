@@ -28,3 +28,7 @@ qemu-gdb:kernel
 	
 user:
 	make -C user build
+
+clean:
+	make -C kernel clean
+	make -C user clean
