@@ -1,0 +1,14 @@
+/home/rwenu/Documents/os/ArgonOS/kernel/target/riscv64gc-unknown-none-elf/debug/deps/libsbi_rt-6020efd8915aba6d.rmeta: /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/lib.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/binary.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/base.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/legacy.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/time.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/spi.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/rfnc.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/hsm.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/srst.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/pmu.rs
+
+/home/rwenu/Documents/os/ArgonOS/kernel/target/riscv64gc-unknown-none-elf/debug/deps/sbi_rt-6020efd8915aba6d.d: /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/lib.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/binary.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/base.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/legacy.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/time.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/spi.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/rfnc.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/hsm.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/srst.rs /home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/pmu.rs
+
+/home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/lib.rs:
+/home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/binary.rs:
+/home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/base.rs:
+/home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/legacy.rs:
+/home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/time.rs:
+/home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/spi.rs:
+/home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/rfnc.rs:
+/home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/hsm.rs:
+/home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/srst.rs:
+/home/rwenu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sbi-rt-0.0.2/src/pmu.rs:
